@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://snowmanstark.github.io/blogs/</loc>
+    <loc>https://snowmanstark.dev/blogs/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snowmanstark.github.io/blogs/new/</loc>
+    <loc>https://snowmanstark.dev/blogs/new/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snowmanstark.github.io/</loc>
+    <loc>https://snowmanstark.dev/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://snowmanstark.github.io/categories/</loc>
+    <loc>https://snowmanstark.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>https://snowmanstark.github.io/tags/</loc>
+    <loc>https://snowmanstark.dev/tags/</loc>
   </url>
   
 </urlset>

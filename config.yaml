@@ -3,6 +3,8 @@ languageCode: en-us
 title: "Philemon Johnson"
 theme: ""
 publishDir: docs
+permalinks:
+  blogs: /:title
 
 # Allow raw html in markdown file
 markup:

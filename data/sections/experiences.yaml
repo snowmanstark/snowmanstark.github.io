@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Dell EMC
+    url: "https://www.delltechnologies.com/en-in/solutions/index.html"
+    location: Bangalore
+    # company overview
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Software Engineer 1
+    start: April 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Resolve escalated customer issues on Cloud Array.
+    - Test and resolve bugs in Cloud Array leading to sharp reduction in escalated cases.
+    - Building Glider Test automation for Glider File tiering feature.
+    # - Accusantium distinctio soluta aliquid quas placeat modi [Xtool](https://www.example.com) suscipit eligendi nisi.
+
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
+
+- company:
+    name: Infabytes
+    url: "https://infabytes.com/"
+    location: Bangalore
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Engineer
+    start: August 2018
+    end: April 2019
+    responsibilities:
+    - Developed edge processing for IoT devices to retreive, clean data before shipping to cloud. 
+    - Architect and integrated AWS services for end-to-end cloud automation of the IoT sensor data.
+    - Created solution for real-time visualization of the IoT sensor data.
+    - Single-handedly developed API testing framework for BoilerBot.
+

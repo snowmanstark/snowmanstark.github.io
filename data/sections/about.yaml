@@ -1,0 +1,77 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Software Engineer 1
+# your company information
+company:
+  name: Dell EMC
+  url: "https://www.delltechnologies.com/en-in/solutions/index.html"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Philemon_Johnson_Resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate developer with 2 years of working experience in Cloud and Storage. In the day I fix issues with Dell EMC CloudArray along with test automation. Recently I started contributing to Mozilla somewhat regularly. Sometimes, I work on fun projects such as Self deploying hadoop cluster on AWS EC2, etc.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "philjohnson96@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/snowmanstark"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/philemon-johnson"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/thesnowmanstark"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 80
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Problem Solving
+  percentage: 90
+  color: orange
+- name: Communication
+  percentage: 85
+  color: pink
+  ## BEFORE ENABLING THE NEXT 2 REPLACE 1st LINE IN soft-skills.html TO <div class="col-6 col-lg-4 p-2"> 
+# - name: Hard Working
+#   percentage: 85
+#   color: green
+# - name: Fast Learner
+#   percentage: 85
+#   color: sky
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -1,8 +1,8 @@
-# baseURL: https://snowmanstark.dev/
-baseURL: http://localhost:1313/
+baseURL: https://snowmanstark.github.io/
 languageCode: en-us
 title: "Philemon Johnson"
 theme: ""
+publishDir: docs
 
 # Allow raw html in markdown file
 markup:
